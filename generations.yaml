@@ -1,0 +1,35 @@
+generations:
+  - name: "First Generation (N10)"
+    start_year: 1978
+    end_year: 1982
+    description: "The original Nissan Pulsar (known as the Datsun Cherry in some markets) was introduced as a subcompact car available in three-door and five-door hatchback, four-door sedan, and three-door van/wagon body styles. Powered by a range of small displacement four-cylinder engines, typically 1.0L to 1.4L depending on market. The design featured conventional, boxy styling typical of the era. This generation established the Pulsar nameplate in certain markets and was notable for its emphasis on fuel efficiency during a period of rising fuel costs."
+
+  - name: "Second Generation (N12)"
+    start_year: 1983
+    end_year: 1986
+    description: "The second-generation Pulsar featured more angular styling with improved aerodynamics. Available in a range of body styles including three-door and five-door hatchbacks, four-door sedan, and a unique cabriolet version in some markets. Engine options expanded to include a wider range of four-cylinder units, with the introduction of the EXA/Pulsar NX sport coupe variant featuring pop-up headlights and available t-top roof panels. This generation saw technical innovations including the introduction of an electronically controlled variable geometry suspension system on certain models."
+
+  - name: "Third Generation (N13)"
+    start_year: 1987
+    end_year: 1990
+    description: "The third-generation Pulsar offered more rounded styling compared to its predecessor, aligning with changing design trends of the late 1980s. Available in hatchback, sedan, and coupe body styles, with significant market variations—in North America, the Pulsar NX featured unique modular bodywork with interchangeable hatch configurations (Sportbak and Canopy). Engine options included various four-cylinder units, with performance-oriented models featuring the SR20DE engine in certain markets. This generation introduced more sophisticated multi-link rear suspension on some variants, improving handling and ride comfort."
+
+  - name: "Fourth Generation (N14)"
+    start_year: 1991
+    end_year: 1995
+    description: "The fourth-generation Pulsar featured more aerodynamic styling with smoother contours and integrated bumpers. Available primarily as three-door and five-door hatchbacks and a four-door sedan, it shared its platform with the European Nissan Sunny/Sentra. Engine options ranged from economical 1.3L and 1.4L units to the more powerful 2.0L SR20DE found in the GTI-R variant—a homologation special featuring 227 horsepower, all-wheel drive, and distinctive rally-inspired styling with a prominent hood scoop. The interior offered improved ergonomics and quality compared to previous generations. This generation is particularly notable for the limited-production GTI-R model that competed in World Rally Championship events."
+
+  - name: "Fifth Generation (N15)"
+    start_year: 1996
+    end_year: 2000
+    description: "The fifth-generation Pulsar continued with evolutionary styling updates while maintaining the same basic body configurations. The design featured softer contours and a more conservative appearance than its predecessor. Engine options were similar to the previous generation but with refinements for improved efficiency and emissions compliance. Notable variants included the VZR with the SR20VE NEO VVL variable valve timing engine producing up to 190 horsepower in certain markets. This generation was not widely distributed globally, with the Pulsar name being phased out in many regions in favor of other Nissan model names."
+
+  - name: "Sixth Generation (N16)"
+    start_year: 2001
+    end_year: 2005
+    description: "The sixth-generation Pulsar, primarily sold in Australia and Asian markets, shared its platform with the global Nissan Sunny/Sentra. The styling became more conventional with less distinctive elements compared to earlier generations. Available in sedan and hatchback body styles, it featured a range of four-cylinder engines focused on economy rather than performance. The interior emphasized practicality with improved space utilization and straightforward controls. This generation represented a shift toward more mainstream design and positioning within Nissan's global strategy."
+
+  - name: "C13 Generation (European Market)"
+    start_year: 2014
+    end_year: 2018
+    description: "After a period of absence in many markets, the Pulsar name was revived for a compact hatchback specifically designed for the European market. Built on the Renault-Nissan Alliance CMF platform shared with the Qashqai and X-Trail, it featured contemporary styling with Nissan's V-motion grille design and boomerang-shaped light signatures. Powertrain options included small displacement turbocharged gasoline and diesel engines, with a focus on efficiency and emissions compliance for European regulations. The interior offered class-competitive technology including NissanConnect infotainment system, Around View Monitor, and various driver assistance features. This generation was positioned as a conventional compact hatchback competitor to the Volkswagen Golf and Ford Focus, but achieved limited commercial success in the highly competitive European C-segment, leading to its discontinuation after a relatively short production run."
